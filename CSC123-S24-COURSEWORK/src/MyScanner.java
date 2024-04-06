@@ -1,4 +1,4 @@
-//treasure warren (twarren24@toromail.csudh.edu)
+//treasure warren (twarren24@toromail.csudh.edu) CSUDH
 
 import java.util.*;
 

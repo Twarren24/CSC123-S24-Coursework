@@ -1,4 +1,4 @@
-//treasure warren (twarren24@toromail.csudh.edu)
+//treasure warren (twarren24@toromail.csudh.edu) CSUDH
 public class ScannerTest {
 
     public static void main(String[] args) {
